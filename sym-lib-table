@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "FR-Transformer")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/sym/FR-Transformer.kicad_sym")(options "")(descr ""))
   (lib (name "FR-Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/sym/FR-Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "FR-Device")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/sym/FR-Device.kicad_sym")(options "")(descr ""))
 )
