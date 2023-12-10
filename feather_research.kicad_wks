@@ -36,7 +36,7 @@
   (line (name "") (start 72.5 22.5) (end 2 22.5))
   (line (name "") (start 34.1 8.5) (end 34.1 5.5))
   (line (name "") (start 22.7 8.5) (end 22.7 5.5))
-  (tbtext "Hash: ${COMMENT3}" (name "") (pos 11.35 7) (justify center))
+  (tbtext "Hash: ${COMMENT3}" (name "") (pos 12.35 7) (justify center))
   (line (name "") (start 63.797 38.4242) (end 63.880132 38.351317) (linewidth 0.202499))
   (line (name "") (start 61.05 35.5082) (end 61.649276 35.96541) (linewidth 0.202499))
   (line (name "") (start 53.433 34.6212) (end 53.569984 34.703799) (linewidth 0.202499))
