@@ -3855,7 +3855,7 @@
 					(type none)
 				)
 			)
-			(text "Bank 5"
+			(text "Bank 6"
 				(at 0 18.415 0)
 				(effects
 					(font
@@ -4570,7 +4570,7 @@
 					(type none)
 				)
 			)
-			(text "Bank 6"
+			(text "Bank 7"
 				(at 0 34.925 0)
 				(effects
 					(font
@@ -5179,7 +5179,7 @@
 					(type none)
 				)
 			)
-			(text "Bank 7"
+			(text "Bank 8"
 				(at 0 12.065 0)
 				(effects
 					(font
