@@ -1840,7 +1840,7 @@
 		)
 		(symbol "Colorlight-i5-v7.0_5_1"
 			(rectangle
-				(start -6.35 11.43)
+				(start -7.62 11.43)
 				(end 6.35 -11.43)
 				(stroke
 					(width 0.3048)
@@ -1850,8 +1850,76 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -6.35 -8.89)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -6.35)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -3.81)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -1.27)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -8.382) (xy -6.35 -6.858)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -3.302) (xy -6.35 -1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 1"
-				(at 0 9.525 0)
+				(at -0.635 9.525 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1877,7 +1945,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -6.35 180)
+				(at 11.43 6.35 180)
 				(length 5.08)
 				(name "D16/PT58B"
 					(effects
@@ -1913,7 +1981,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -1.27 180)
+				(at 11.43 1.27 180)
 				(length 5.08)
 				(name "B18/PT62B"
 					(effects
@@ -1931,7 +1999,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 1.27 180)
+				(at 11.43 -6.35 180)
 				(length 5.08)
 				(name "A19/PT67A"
 					(effects
@@ -1967,7 +2035,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 6.35 180)
+				(at 11.43 -1.27 180)
 				(length 5.08)
 				(name "A18/PT65A"
 					(effects
@@ -1987,7 +2055,7 @@
 		)
 		(symbol "Colorlight-i5-v7.0_6_1"
 			(rectangle
-				(start -6.35 43.18)
+				(start -7.62 43.18)
 				(end 6.35 -43.18)
 				(stroke
 					(width 0.3048)
@@ -1997,8 +2065,552 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -6.35 -40.64)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -38.1)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -35.56)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -33.02)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -30.48)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -27.94)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -25.4)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -22.86)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -20.32)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -17.78)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -15.24)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -10.16)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -7.62)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -5.08)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -2.54)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 0)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 2.54)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 5.08)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 7.62)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 10.16)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 15.24)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 17.78)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 20.32)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 22.86)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 25.4)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 27.94)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 30.48)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 33.02)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 35.56)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 38.1)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -40.132) (xy -6.35 -38.608)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -35.052) (xy -6.35 -33.528)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -29.972) (xy -6.35 -28.448)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -24.892) (xy -6.35 -23.368)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -19.812) (xy -6.35 -18.288)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -14.732) (xy -6.35 -13.208)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -9.652) (xy -6.35 -8.128)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -4.572) (xy -6.35 -3.048)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 0.508) (xy -6.35 2.032)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 5.588) (xy -6.35 7.112)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 10.668) (xy -6.35 12.192)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 15.748) (xy -6.35 17.272)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 20.828) (xy -6.35 22.352)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 25.908) (xy -6.35 27.432)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 30.988) (xy -6.35 32.512)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 36.068) (xy -6.35 37.592)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 2"
-				(at 0 41.275 0)
+				(at -0.635 41.275 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2006,7 +2618,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 10.16 180)
+				(at 11.43 17.78 180)
 				(length 5.08)
 				(name "F17/PR8A"
 					(effects
@@ -2024,7 +2636,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 12.7 180)
+				(at 11.43 -15.24 180)
 				(length 5.08)
 				(name "F19/PR17B"
 					(effects
@@ -2042,7 +2654,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 15.24 180)
+				(at 11.43 30.48 180)
 				(length 5.08)
 				(name "F16/PR2D"
 					(effects
@@ -2060,7 +2672,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 17.78 180)
+				(at 11.43 -12.7 180)
 				(length 5.08)
 				(name "E20/PR17A"
 					(effects
@@ -2078,7 +2690,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 20.32 180)
+				(at 11.43 33.02 180)
 				(length 5.08)
 				(name "E16/PR2C"
 					(effects
@@ -2096,7 +2708,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 22.86 180)
+				(at 11.43 -10.16 180)
 				(length 5.08)
 				(name "E19/PR14D"
 					(effects
@@ -2132,7 +2744,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 27.94 180)
+				(at 11.43 -7.62 180)
 				(length 5.08)
 				(name "D20/PR14C"
 					(effects
@@ -2150,7 +2762,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 30.48 180)
+				(at 11.43 27.94 180)
 				(length 5.08)
 				(name "D18/PR5A"
 					(effects
@@ -2168,7 +2780,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 33.02 180)
+				(at 11.43 -5.08 180)
 				(length 5.08)
 				(name "D19/PR14B"
 					(effects
@@ -2204,7 +2816,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 38.1 180)
+				(at 11.43 -2.54 180)
 				(length 5.08)
 				(name "C20/PR14A"
 					(effects
@@ -2222,7 +2834,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -40.64 180)
+				(at 11.43 -30.48 180)
 				(length 5.08)
 				(name "K18/PR20D"
 					(effects
@@ -2240,7 +2852,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -38.1 180)
+				(at 11.43 38.1 180)
 				(length 5.08)
 				(name "C18/PR2A"
 					(effects
@@ -2258,7 +2870,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -35.56 180)
+				(at 11.43 0 180)
 				(length 5.08)
 				(name "J16/PR11D"
 					(effects
@@ -2276,7 +2888,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -33.02 180)
+				(at 11.43 -27.94 180)
 				(length 5.08)
 				(name "J18/PR20C"
 					(effects
@@ -2294,7 +2906,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -30.48 180)
+				(at 11.43 2.54 180)
 				(length 5.08)
 				(name "J17/PR11C"
 					(effects
@@ -2312,7 +2924,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -27.94 180)
+				(at 11.43 -40.64 180)
 				(length 5.08)
 				(name "K20/PR23D"
 					(effects
@@ -2330,7 +2942,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -25.4 180)
+				(at 11.43 7.62 180)
 				(length 5.08)
 				(name "H18/PR11A"
 					(effects
@@ -2348,7 +2960,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -22.86 180)
+				(at 11.43 -35.56 180)
 				(length 5.08)
 				(name "K19/PR23B"
 					(effects
@@ -2366,7 +2978,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -20.32 180)
+				(at 11.43 5.08 180)
 				(length 5.08)
 				(name "H17/PR11B"
 					(effects
@@ -2384,7 +2996,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -17.78 180)
+				(at 11.43 -38.1 180)
 				(length 5.08)
 				(name "J20/PR23C"
 					(effects
@@ -2402,7 +3014,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -15.24 180)
+				(at 11.43 15.24 180)
 				(length 5.08)
 				(name "G18/PR8B"
 					(effects
@@ -2420,7 +3032,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -12.7 180)
+				(at 11.43 -33.02 180)
 				(length 5.08)
 				(name "J19/PR23A"
 					(effects
@@ -2438,7 +3050,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -10.16 180)
+				(at 11.43 10.16 180)
 				(length 5.08)
 				(name "H16/PR8D"
 					(effects
@@ -2456,7 +3068,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -7.62 180)
+				(at 11.43 -25.4 180)
 				(length 5.08)
 				(name "H20/PR20B"
 					(effects
@@ -2474,7 +3086,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -5.08 180)
+				(at 11.43 20.32 180)
 				(length 5.08)
 				(name "F18/PR5D"
 					(effects
@@ -2492,7 +3104,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -2.54 180)
+				(at 11.43 -20.32 180)
 				(length 5.08)
 				(name "G20/PR17D"
 					(effects
@@ -2510,7 +3122,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 0 180)
+				(at 11.43 12.7 180)
 				(length 5.08)
 				(name "G16/PR8C"
 					(effects
@@ -2528,7 +3140,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 2.54 180)
+				(at 11.43 -22.86 180)
 				(length 5.08)
 				(name "G19/PR20A"
 					(effects
@@ -2546,7 +3158,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 5.08 180)
+				(at 11.43 22.86 180)
 				(length 5.08)
 				(name "E18/PR5C"
 					(effects
@@ -2564,7 +3176,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 7.62 180)
+				(at 11.43 -17.78 180)
 				(length 5.08)
 				(name "F20/PR17C"
 					(effects
@@ -2584,7 +3196,7 @@
 		)
 		(symbol "Colorlight-i5-v7.0_7_1"
 			(rectangle
-				(start -6.35 22.86)
+				(start -7.62 22.86)
 				(end 6.35 -22.86)
 				(stroke
 					(width 0.3048)
@@ -2594,8 +3206,178 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -6.35 -20.32)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -17.78)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 -15.24)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 -12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 0)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 2.54)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 5.08)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 7.62)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -6.35 12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -6.35 15.24)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -19.812) (xy -6.35 -18.288)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 -14.732) (xy -6.35 -13.208)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 0.508) (xy -6.35 2.032)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 5.588) (xy -6.35 7.112)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.35 13.208) (xy -6.35 14.732)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 3"
-				(at 0 20.955 0)
+				(at -0.635 20.955 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2603,7 +3385,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -20.32 180)
+				(at 11.43 -17.78 180)
 				(length 5.08)
 				(name "U16/PR47C"
 					(effects
@@ -2621,7 +3403,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -17.78 180)
+				(at 11.43 -10.16 180)
 				(length 5.08)
 				(name "T18/PR44D"
 					(effects
@@ -2639,7 +3421,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -15.24 180)
+				(at 11.43 -7.62 180)
 				(length 5.08)
 				(name "R18/PR44B"
 					(effects
@@ -2657,7 +3439,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -12.7 180)
+				(at 11.43 -2.54 180)
 				(length 5.08)
 				(name "R17/PR35D"
 					(effects
@@ -2675,7 +3457,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -10.16 180)
+				(at 11.43 5.08 180)
 				(length 5.08)
 				(name "P17/PR32D"
 					(effects
@@ -2693,7 +3475,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -7.62 180)
+				(at 11.43 10.16 180)
 				(length 5.08)
 				(name "M17/PR32B"
 					(effects
@@ -2711,7 +3493,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -5.08 180)
+				(at 11.43 -20.32 180)
 				(length 5.08)
 				(name "T17/PR47D"
 					(effects
@@ -2729,7 +3511,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -2.54 180)
+				(at 11.43 -12.7 180)
 				(length 5.08)
 				(name "U18/PR47A"
 					(effects
@@ -2747,7 +3529,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 0 180)
+				(at 11.43 -15.24 180)
 				(length 5.08)
 				(name "U17/PR47B"
 					(effects
@@ -2765,7 +3547,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 2.54 180)
+				(at 11.43 -5.08 180)
 				(length 5.08)
 				(name "P18/PR38D"
 					(effects
@@ -2783,7 +3565,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 5.08 180)
+				(at 11.43 2.54 180)
 				(length 5.08)
 				(name "N17/PR35A"
 					(effects
@@ -2819,7 +3601,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 10.16 180)
+				(at 11.43 0 180)
 				(length 5.08)
 				(name "P16/PR35B"
 					(effects
@@ -2855,7 +3637,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 15.24 180)
+				(at 11.43 17.78 180)
 				(length 5.08)
 				(name "L20/PR26A"
 					(effects
@@ -2873,7 +3655,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 17.78 180)
+				(at 11.43 15.24 180)
 				(length 5.08)
 				(name "L18/PR29C"
 					(effects
@@ -2903,6 +3685,176 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -5.08 -17.78)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -15.24)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -10.16)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -2.54)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 0)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 2.54)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 5.08)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 10.16)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 12.7)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -17.272) (xy -5.08 -15.748)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -12.192) (xy -5.08 -10.668)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -2.032) (xy -5.08 -0.508)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 3.048) (xy -5.08 4.572)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 10.668) (xy -5.08 12.192)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 5"
 				(at 0 18.415 0)
 				(effects
@@ -2912,7 +3864,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 2.54 180)
+				(at 11.43 15.24 180)
 				(length 5.08)
 				(name "F1/PL26B"
 					(effects
@@ -2930,7 +3882,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 5.08 180)
+				(at 11.43 12.7 180)
 				(length 5.08)
 				(name "J4/PL29A"
 					(effects
@@ -2948,7 +3900,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 7.62 180)
+				(at 11.43 10.16 180)
 				(length 5.08)
 				(name "J5/PL29B"
 					(effects
@@ -2966,7 +3918,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 10.16 180)
+				(at 11.43 7.62 180)
 				(length 5.08)
 				(name "K3/PL29D"
 					(effects
@@ -2984,7 +3936,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 12.7 180)
+				(at 11.43 5.08 180)
 				(length 5.08)
 				(name "K4/PL35A"
 					(effects
@@ -3002,7 +3954,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 15.24 180)
+				(at 11.43 2.54 180)
 				(length 5.08)
 				(name "K5/PL35B"
 					(effects
@@ -3056,7 +4008,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -12.7 180)
+				(at 11.43 -10.16 180)
 				(length 5.08)
 				(name "N3/PL41A"
 					(effects
@@ -3074,7 +4026,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -10.16 180)
+				(at 11.43 -12.7 180)
 				(length 5.08)
 				(name "M3/PL41B"
 					(effects
@@ -3128,7 +4080,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -2.54 180)
+				(at 11.43 0 180)
 				(length 5.08)
 				(name "L4/PL35C"
 					(effects
@@ -3146,7 +4098,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 0 180)
+				(at 11.43 -2.54 180)
 				(length 5.08)
 				(name "L5/PL35D"
 					(effects
@@ -3176,6 +4128,448 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -5.08 -34.29)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -31.75)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -29.21)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -26.67)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -24.13)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -21.59)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -19.05)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -16.51)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -13.97)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -11.43)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -8.89)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -6.35)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 -3.81)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -1.27)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 1.27)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 3.81)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 6.35)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 8.89)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 11.43)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 13.97)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 16.51)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 19.05)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 24.13)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 26.67)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 29.21)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 31.75)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -33.782) (xy -5.08 -32.258)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -28.702) (xy -5.08 -27.178)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -23.622) (xy -5.08 -22.098)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -18.542) (xy -5.08 -17.018)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -13.462) (xy -5.08 -11.938)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -8.382) (xy -5.08 -6.858)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -3.302) (xy -5.08 -1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 1.778) (xy -5.08 3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 6.858) (xy -5.08 8.382)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 11.938) (xy -5.08 13.462)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 17.018) (xy -5.08 18.542)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 24.638) (xy -5.08 26.162)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 29.718) (xy -5.08 31.242)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 6"
 				(at 0 34.925 0)
 				(effects
@@ -3185,7 +4579,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -34.29 180)
+				(at 11.43 -19.05 180)
 				(length 5.08)
 				(name "G5/PL20B"
 					(effects
@@ -3203,7 +4597,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -31.75 180)
+				(at 11.43 6.35 180)
 				(length 5.08)
 				(name "F5/PL11D"
 					(effects
@@ -3221,7 +4615,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -29.21 180)
+				(at 11.43 8.89 180)
 				(length 5.08)
 				(name "E5/PL11C"
 					(effects
@@ -3239,7 +4633,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -26.67 180)
+				(at 11.43 13.97 180)
 				(length 5.08)
 				(name "F4/PL11A"
 					(effects
@@ -3257,7 +4651,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -24.13 180)
+				(at 11.43 21.59 180)
 				(length 5.08)
 				(name "E4/PL8A"
 					(effects
@@ -3275,7 +4669,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -21.59 180)
+				(at 11.43 16.51 180)
 				(length 5.08)
 				(name "D3/PL8D"
 					(effects
@@ -3293,7 +4687,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -19.05 180)
+				(at 11.43 31.75 180)
 				(length 5.08)
 				(name "C4/PL5A"
 					(effects
@@ -3311,7 +4705,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -16.51 180)
+				(at 11.43 -29.21 180)
 				(length 5.08)
 				(name "F3/PL23B"
 					(effects
@@ -3329,7 +4723,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -13.97 180)
+				(at 11.43 29.21 180)
 				(length 5.08)
 				(name "B4/PL5B"
 					(effects
@@ -3347,7 +4741,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -11.43 180)
+				(at 11.43 -26.67 180)
 				(length 5.08)
 				(name "G3/PL23A"
 					(effects
@@ -3365,7 +4759,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -8.89 180)
+				(at 11.43 19.05 180)
 				(length 5.08)
 				(name "C3/PL8C"
 					(effects
@@ -3383,7 +4777,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -6.35 180)
+				(at 11.43 -24.13 180)
 				(length 5.08)
 				(name "H3/PL20D"
 					(effects
@@ -3401,7 +4795,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -3.81 180)
+				(at 11.43 11.43 180)
 				(length 5.08)
 				(name "E3/PL11B"
 					(effects
@@ -3419,7 +4813,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -1.27 180)
+				(at 11.43 -16.51 180)
 				(length 5.08)
 				(name "H4/PL20A"
 					(effects
@@ -3437,7 +4831,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 1.27 180)
+				(at 11.43 26.67 180)
 				(length 5.08)
 				(name "A3/PL5C"
 					(effects
@@ -3455,7 +4849,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 3.81 180)
+				(at 11.43 -21.59 180)
 				(length 5.08)
 				(name "H5/PL20C"
 					(effects
@@ -3473,7 +4867,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 6.35 180)
+				(at 11.43 -3.81 180)
 				(length 5.08)
 				(name "C2/PL14D"
 					(effects
@@ -3491,7 +4885,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 8.89 180)
+				(at 11.43 1.27 180)
 				(length 5.08)
 				(name "B1/PL14B"
 					(effects
@@ -3509,7 +4903,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 11.43 180)
+				(at 11.43 -6.35 180)
 				(length 5.08)
 				(name "C1/PL17A"
 					(effects
@@ -3527,7 +4921,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 13.97 180)
+				(at 11.43 -11.43 180)
 				(length 5.08)
 				(name "D2/PL17C"
 					(effects
@@ -3545,7 +4939,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 16.51 180)
+				(at 11.43 -8.89 180)
 				(length 5.08)
 				(name "D1/PL17B"
 					(effects
@@ -3563,7 +4957,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 19.05 180)
+				(at 11.43 -34.29 180)
 				(length 5.08)
 				(name "E2/PL23D"
 					(effects
@@ -3581,7 +4975,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 21.59 180)
+				(at 11.43 24.13 180)
 				(length 5.08)
 				(name "B3/PL5D"
 					(effects
@@ -3599,7 +4993,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 24.13 180)
+				(at 11.43 -13.97 180)
 				(length 5.08)
 				(name "E1/PL17D"
 					(effects
@@ -3617,7 +5011,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 26.67 180)
+				(at 11.43 3.81 180)
 				(length 5.08)
 				(name "A2/PL14A"
 					(effects
@@ -3635,7 +5029,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 29.21 180)
+				(at 11.43 -31.75 180)
 				(length 5.08)
 				(name "F2/PL23C"
 					(effects
@@ -3653,7 +5047,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 31.75 180)
+				(at 11.43 -1.27 180)
 				(length 5.08)
 				(name "B2/PL14C"
 					(effects
@@ -3683,6 +5077,108 @@
 					(type background)
 				)
 			)
+			(circle
+				(center -5.08 -3.81)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 -1.27)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 1.27)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 3.81)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -5.08 6.35)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(circle
+				(center -5.08 8.89)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 -3.302) (xy -5.08 -1.778)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 1.778) (xy -5.08 3.302)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.08 6.858) (xy -5.08 8.382)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(text "Bank 7"
 				(at 0 12.065 0)
 				(effects
@@ -3692,7 +5188,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -11.43 180)
+				(at 11.43 8.89 180)
 				(length 5.08)
 				(name "R1/PB4A"
 					(effects
@@ -3710,7 +5206,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -8.89 180)
+				(at 11.43 6.35 180)
 				(length 5.08)
 				(name "T1/PB4B"
 					(effects
@@ -3728,7 +5224,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 -6.35 180)
+				(at 11.43 3.81 180)
 				(length 5.08)
 				(name "U1/PB6A"
 					(effects
@@ -3800,7 +5296,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 3.81 180)
+				(at 11.43 -6.35 180)
 				(length 5.08)
 				(name "T2/PB13A"
 					(effects
@@ -3818,7 +5314,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 6.35 180)
+				(at 11.43 -11.43 180)
 				(length 5.08)
 				(name "T3/PB18A"
 					(effects
@@ -3836,7 +5332,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 11.43 8.89 180)
+				(at 11.43 -8.89 180)
 				(length 5.08)
 				(name "R3/PB15B"
 					(effects
