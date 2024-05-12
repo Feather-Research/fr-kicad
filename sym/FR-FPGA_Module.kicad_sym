@@ -225,7 +225,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -243,7 +243,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -297,7 +297,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -315,7 +315,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -351,7 +351,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -369,7 +369,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -387,7 +387,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -405,7 +405,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -5.08 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -423,7 +423,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -441,7 +441,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -459,7 +459,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -477,7 +477,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -495,7 +495,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 0 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -513,7 +513,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -531,7 +531,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -549,7 +549,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -567,7 +567,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -3.81 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -585,7 +585,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -603,7 +603,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -621,7 +621,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -639,7 +639,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -657,7 +657,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 0 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -675,7 +675,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -693,7 +693,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -711,7 +711,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -729,7 +729,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -2.54 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -747,7 +747,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -765,7 +765,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -783,7 +783,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -801,7 +801,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -819,7 +819,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 0 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -837,7 +837,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -855,7 +855,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -873,7 +873,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -891,7 +891,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at -1.27 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -909,7 +909,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -927,7 +927,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -945,7 +945,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -963,7 +963,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -981,7 +981,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 0 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -999,7 +999,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1017,7 +1017,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1071,7 +1071,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1107,7 +1107,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 0 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1125,7 +1125,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1161,7 +1161,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1179,7 +1179,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1197,7 +1197,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1215,7 +1215,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 0 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1287,7 +1287,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 -1.27 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1305,7 +1305,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 -2.54 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1323,7 +1323,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 -3.81 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects
@@ -1359,7 +1359,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -5.08 0 0)
+				(at 1.27 -5.08 0)
 				(length 5.08) hide
 				(name "NC"
 					(effects

@@ -1,0 +1,268 @@
+(footprint "XDJK-0271-1650"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "2x RCA/Cinch Vertical Connector, https://www.lcsc.com/datasheet/lcsc_datasheet_2309181810_Lian-Xin-Technology-XDJK-0271-1650_C7527522.pdf")
+	(tags "RCA Cinch Dual")
+	(property "Reference" "REF**"
+		(at 12 -1 0)
+		(layer "F.SilkS")
+		(uuid "8d5e5f8c-89ed-4f80-8153-671b762e95b1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XDJK-0271-1650"
+		(at 0 9 0)
+		(layer "F.Fab")
+		(uuid "3a8b5592-30a2-4637-bba4-a0d871efdc14")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "XDJK-0271-1650"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f4b3ed3-dbd9-40d8-850e-ce37cd68e50e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2309181810_Lian-Xin-Technology-XDJK-0271-1650_C7527522.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74b91ad5-1402-4549-b021-96dc655c85ff")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "931fcd19-cd27-4975-9e44-4ca5d70c91aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.5 -4.95)
+		(end -6.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ba50f15a-e214-430d-9558-885c7717b5f7")
+	)
+	(fp_line
+		(start 6.5 -4.95)
+		(end 6.5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19a3a966-9612-4029-9140-b188e811f7f2")
+	)
+	(fp_line
+		(start 7.5 0)
+		(end -7.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3a37b0ab-f1b7-445a-b0cf-8a54f58ca555")
+	)
+	(fp_rect
+		(start -9.5 -14)
+		(end 9.5 8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "e7de7caa-6c2a-4bc3-a2ae-d77ee2f7b68b")
+	)
+	(fp_line
+		(start -8 -12)
+		(end -8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "efd51fae-5958-4294-a82e-32b1ec4e59ca")
+	)
+	(fp_line
+		(start -8 0)
+		(end 8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6759f345-80ea-4965-a9f8-74f35108f471")
+	)
+	(fp_line
+		(start -5 1)
+		(end -5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9880458-280a-4811-9519-b76a0155b295")
+	)
+	(fp_line
+		(start -4.15 1)
+		(end -4.15 7.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "35ffda3c-af30-463d-9cbd-232a40057f9e")
+	)
+	(fp_line
+		(start 4.15 1)
+		(end 4.15 7.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9d8453a-5311-46ba-85c3-f361c4e4f39a")
+	)
+	(fp_line
+		(start 4.15 7.6)
+		(end -4.15 7.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "72b01178-ee64-47a1-8063-9ae3179bea4b")
+	)
+	(fp_line
+		(start 5 0)
+		(end 5 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c6403257-374b-4d49-a824-5a619402ac86")
+	)
+	(fp_line
+		(start 5 1)
+		(end -5 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2c82132d-4804-4dd3-bfb2-3e5ef6dafdcd")
+	)
+	(fp_line
+		(start 8 -12)
+		(end -8 -12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fae5e286-b1ac-43d8-bcde-a5326249cd5e")
+	)
+	(fp_line
+		(start 8 -12)
+		(end 8 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4e4ab105-097e-4959-9d01-e8fddc0967ae")
+	)
+	(fp_text user "PCB Edge"
+		(at 0 -1.31 180)
+		(layer "Dwgs.User")
+		(uuid "11967b02-4c03-412b-8812-17c11881054b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4d1e2e12-a8fc-4f51-b5c9-3c593aadb98e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole oval
+		(at -7.5 -7.95)
+		(size 2 4)
+		(drill oval 2 4)
+		(layers "F&B.Cu")
+		(uuid "b118ba51-3d38-428b-a266-a616a7a91e35")
+	)
+	(pad "" np_thru_hole oval
+		(at 7.5 -7.95)
+		(size 2 4)
+		(drill oval 2 4)
+		(layers "F&B.Cu")
+		(uuid "f73a2ad1-aefc-410c-9fce-375ee85b146c")
+	)
+	(pad "1" thru_hole circle
+		(at -4 -11.2)
+		(size 3 3)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d20fe260-0ecc-45ab-87c6-fc6dbe1b8b0e")
+	)
+	(pad "2" thru_hole circle
+		(at 4 -10.4)
+		(size 3 3)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1231ce4c-c7b9-473a-804d-1e7c41d14150")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -7.3)
+		(size 3 3)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "12714393-098d-4d51-96bb-293c9223c0f0")
+	)
+)
