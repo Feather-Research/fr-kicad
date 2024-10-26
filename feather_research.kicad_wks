@@ -111,7 +111,7 @@
 		(start 72.5 8.5)
 		(end 2 8.5)
 	)
-	(tbtext "Rev: ${REVISION}"
+	(tbtext "Rev: ${FR_PROJECT_REVISION}"
 		(name "")
 		(pos 28.4 7)
 		(justify center)
@@ -151,7 +151,7 @@
 		(name "")
 		(pos 71.5 17)
 	)
-	(tbtext "Licence: ${COMMENT2}"
+	(tbtext "Licence: ${FR_PROJECT_LICENCE}"
 		(name "")
 		(pos 71.5 20.5)
 		(comment "Comment 1")
@@ -187,7 +187,7 @@
 		(start 22.7 8.5)
 		(end 22.7 5.5)
 	)
-	(tbtext "Hash: ${COMMENT3}"
+	(tbtext "Hash: ${FR_PROJECT_HASH}"
 		(name "")
 		(pos 12.35 7)
 		(justify center)
