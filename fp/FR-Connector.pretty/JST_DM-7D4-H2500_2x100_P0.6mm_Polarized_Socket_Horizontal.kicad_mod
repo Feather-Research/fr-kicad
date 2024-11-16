@@ -18,7 +18,7 @@
 		)
 	)
 	(property "Value" "JST_DM-7D4-H2500_2x100_P0.6mm_Polarized_Socket_Horizontal"
-		(at 0 4 0)
+		(at 0 2.032 0)
 		(layer "F.Fab")
 		(uuid "f47fd1b4-58f9-4bf2-a203-0df5ba829b96")
 		(effects
@@ -99,7 +99,7 @@
 		(uuid "9ebf1965-6ce1-4e23-b482-522e481fa174")
 	)
 	(fp_line
-		(start -39.1 4.9)
+		(start -39 4.9)
 		(end -32.3 4.9)
 		(stroke
 			(width 0.2)
