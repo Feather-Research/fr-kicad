@@ -30,9 +30,6 @@ fp-info-cache
 # Plotted schematic files
 *.pdf
 
-# Exported STEP files
-*.step
-
 # KiCad 6 backups
 *-backups
 
