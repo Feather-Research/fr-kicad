@@ -1,7 +1,7 @@
 (footprint "TestPoint_Oscilloscope_Probe"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Test point for a standard 1X/10X oscilloscope probe with ground clip")
 	(tags "test point SMD pad")
@@ -18,25 +18,14 @@
 		)
 	)
 	(property "Value" "TestPoint_Oscilloscope_Probe"
-		(at 0 2 0)
+		(at 0 0 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "a41410ba-6764-40d3-8271-3889cd1f68dc")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "TestPoint_Oscilloscope_Probe"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "c09887c6-7e81-4b0d-acbd-f99095d4f2d7")
-		(effects
-			(font
-				(size 1.27 1.27)
 			)
 		)
 	)
@@ -49,6 +38,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +51,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -95,7 +86,7 @@
 			(width 0.15)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "232e49b3-175c-43f1-906b-a67d81adeac2")
 	)
@@ -106,7 +97,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "f02f025d-d308-4e0d-bc6c-e230724bf915")
 	)
@@ -117,12 +108,12 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "ad6e5850-1414-480b-a74a-52a5f24912d8")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -2 0)
+		(at 2.25 0 0)
 		(layer "F.Fab")
 		(uuid "ecb9d95d-c3e5-4a80-b7be-d742b8cad331")
 		(effects
@@ -142,10 +133,11 @@
 	)
 	(pad "2" thru_hole circle
 		(at 4.5 0)
-		(size 0.8 0.8)
-		(drill 0.4)
+		(size 1 1)
+		(drill 0.6)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "f3d52c8a-9956-4608-8150-d663e95d4210")
 	)
+	(embedded_fonts no)
 )
