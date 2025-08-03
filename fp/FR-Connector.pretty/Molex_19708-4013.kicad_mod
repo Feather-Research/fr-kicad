@@ -1,0 +1,227 @@
+(footprint "Molex_19708-4013"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "PCB Tab Quick Disconnect, Male, for Wire, Metal Strip, Tab 4.75 x 0.81mm")
+	(tags "quick disconnect connector")
+	(property "Reference" "REF**"
+		(at 2.54 -2.2 0)
+		(layer "F.SilkS")
+		(uuid "21a13a80-8e14-46e2-b88c-e3a8ecb17f0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Molex_19708-4013"
+		(at 2.54 0.25 0)
+		(layer "F.Fab")
+		(uuid "0da58f91-65f7-4cff-b0d3-aad863948ba3")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.04)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea92b6b4-af6e-472c-9d24-5f4349545b34")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "PCB Tab Quick Disconnect, Male, for Wire, Metal Strip, Tab 4.75 x 0.81mm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f174adc9-8f26-4545-8374-40c607379e75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Name" ""
+		(at 2.54 2.2 0)
+		(layer "F.SilkS")
+		(uuid "861fec82-ac56-49d8-ab1e-ca9b46bd211f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.4 -1.4)
+		(end -1.4 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f1c8b2b5-d220-46c2-9a58-00161ffefa28")
+	)
+	(fp_line
+		(start -1.4 1.4)
+		(end 1.4 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7e135e75-0c13-43fe-9fa6-663715d4d43b")
+	)
+	(fp_line
+		(start 1.4 -1.4)
+		(end -1.4 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0026133b-7ffa-4fc3-a01d-12f18d347533")
+	)
+	(fp_line
+		(start 1.4 -1.4)
+		(end 1.4 -0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "23ae3cb5-4017-43e8-9594-80cc13dac882")
+	)
+	(fp_line
+		(start 1.4 -0.6)
+		(end 3.68 -0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b0ca684c-c236-4c71-9beb-ea559a1a3b71")
+	)
+	(fp_line
+		(start 1.4 0.6)
+		(end 3.68 0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6191750a-7da6-4e96-9568-b61a1ad041fa")
+	)
+	(fp_line
+		(start 1.4 1.4)
+		(end 1.4 0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f1ca95bb-de0e-4667-9ca5-16ad8f114660")
+	)
+	(fp_line
+		(start 3.68 -1.4)
+		(end 3.68 -0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "84cf946c-1978-4c05-8394-1138f36354ac")
+	)
+	(fp_line
+		(start 3.68 1.4)
+		(end 3.68 0.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c4929b36-6a63-4d91-975e-e76c52408386")
+	)
+	(fp_line
+		(start 3.68 1.4)
+		(end 6.48 1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d5464fc-07d3-4c92-a422-59baec26bd8a")
+	)
+	(fp_line
+		(start 6.48 -1.4)
+		(end 3.68 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "10b8d39d-fdf0-4342-9350-b74d588b5d5c")
+	)
+	(fp_line
+		(start 6.48 1.4)
+		(end 6.48 -1.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d5256d4-fab3-4a05-9625-5ea08df78971")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 -0.25 0)
+		(layer "F.Fab")
+		(uuid "79125340-ef5f-41d9-b4c1-d5076b30b8c6")
+		(effects
+			(font
+				(size 0.25 0.25)
+				(thickness 0.04)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 2.5 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "e5e3aad3-59fc-4bfe-96d7-76f883a79047")
+	)
+	(pad "1" thru_hole roundrect
+		(at 5.08 0)
+		(size 2.4 2.4)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15625)
+		(uuid "69ad1362-cf23-4d4a-99c9-4259fbf086e1")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/fr-kicad/3d/Connector.3dshapes/Molex_19708-4013.step"
+		(offset
+			(xyz 2.55 0 0.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
