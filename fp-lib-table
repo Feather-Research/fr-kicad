@@ -5,4 +5,5 @@
   (lib (name "FR-TestPoint")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/fp/FR-TestPoint.pretty")(options "")(descr ""))
   (lib (name "FR-Package")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/fp/FR-Package.pretty")(options "")(descr ""))
   (lib (name "FR-NetTie")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/fp/FR-NetTie.pretty")(options "")(descr ""))
+  (lib (name "FR-Heatsink")(type "KiCad")(uri "${KIPRJMOD}/lib/fr-kicad/fp/FR-Heatsink.pretty")(options "")(descr ""))
 )
