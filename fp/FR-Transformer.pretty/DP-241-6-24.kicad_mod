@@ -1,0 +1,327 @@
+(footprint "DP-241-6-24"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Power transformer, 2x Pri, 2x Sec, 230/115 VAC to 24VCT (30VA)")
+	(tags "power center-tap")
+	(property "Reference" "REF**"
+		(at 16.35 21.59 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "00766b37-85f5-45a2-b85f-b08472bb3014")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DP-241-6-24"
+		(at 16.35 23.09 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fb181d5b-2466-4e95-9a12-c65e00ad328e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 12.7 10.16 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c098d806-897a-420d-9eff-c40e6722e210")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 12.7 10.16 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f1d023c-7740-4d38-8272-b1ff3466f684")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.6 -3.4)
+		(end -2.6 3.4)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "202f557b-7211-497a-97ec-59b70ee4a80e")
+	)
+	(fp_rect
+		(start -2.25 -4.01)
+		(end 34.95 47.19)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b11522cd-d376-4c7a-900a-5e1275491f40")
+	)
+	(fp_line
+		(start -8.6 -19.71)
+		(end -8.6 62.89)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6dff866d-41e5-48fb-a165-af6372e65c89")
+	)
+	(fp_line
+		(start -8.6 -14.11)
+		(end -8 -14.71)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "b007687b-2796-4ba0-baba-8d1eb67a257b")
+	)
+	(fp_line
+		(start -8.6 -14.11)
+		(end -8 -13.51)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "8f463ddc-6a6c-4ef2-9da6-c1bcc94c18f9")
+	)
+	(fp_line
+		(start -8.6 -14.11)
+		(end -6.6 -14.11)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5643b2e3-8438-45ae-addb-43a1c0352917")
+	)
+	(fp_line
+		(start -8.6 57.29)
+		(end -8 56.69)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "728dee98-6175-4188-8d12-3d8a9336374a")
+	)
+	(fp_line
+		(start -8.6 57.29)
+		(end -8 57.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "5d6bb69e-72ce-408f-93da-627632b7d603")
+	)
+	(fp_line
+		(start -8.6 57.29)
+		(end -6.6 57.29)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "dd59b831-1468-40b2-9e65-da891cfeda1b")
+	)
+	(fp_rect
+		(start -2.25 -4.01)
+		(end 34.95 47.19)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "7d022702-95de-4e7f-919b-66d8af194df1")
+	)
+	(fp_line
+		(start -8.2 -19.71)
+		(end -8.2 62.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "be59c709-f5e8-4f0e-85b0-b6857df263d9")
+	)
+	(fp_line
+		(start -8.2 1.27)
+		(end -6.93 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9416747b-6fc2-4a8c-b195-a6591ff72f62")
+	)
+	(fp_line
+		(start -6.93 0)
+		(end -8.2 -1.27)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "221fab00-5dc4-4ffc-8f4c-09f9592415bc")
+	)
+	(fp_rect
+		(start -8.2 -9.2)
+		(end 41.6 50.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "12a51fcd-050f-4812-8bdf-0b70305f2595")
+	)
+	(fp_text user "chassis line"
+		(at -7 21.59 90)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "2316fb63-db6f-40dc-933b-65d51e2c6172")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "mounting hole"
+		(at -6.5 -14.11 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "6a23eea3-2fdf-4bdc-aa1d-b8892d405086")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "mounting hole"
+		(at -6.5 57.29 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "ee7837df-a2a5-459c-aa4c-d1ca23e95969")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 16.35 20.09 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ae7bf2a3-7f7b-42b3-ad57-d1a91393519a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "15bb104e-04d4-4f62-b672-598c09cf2178")
+	)
+	(pad "2" thru_hole roundrect
+		(at 0 10.795)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "0bc33827-5bd9-4575-af06-c9960ea9475e")
+	)
+	(pad "4" thru_hole roundrect
+		(at 0 32.385)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "d8186d7c-ad6e-445b-992c-38a475f9c007")
+	)
+	(pad "5" thru_hole roundrect
+		(at 0 43.18)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "edd45d63-e075-44f7-ad61-3dde22130f0d")
+	)
+	(pad "7" thru_hole roundrect
+		(at 32.7 10.795)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "74f26eff-ae58-435b-aaf4-de38f9aade0f")
+	)
+	(pad "8" thru_hole roundrect
+		(at 32.7 21.59)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "b74c2219-d12a-4910-8228-490527cfdac8")
+	)
+	(pad "9" thru_hole roundrect
+		(at 32.7 32.385)
+		(size 3 6.9)
+		(drill oval 1.4 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1470588235)
+		(uuid "64810443-0762-41ee-b545-1a1865ff9e9a")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/fr-kicad/3d/Transformer_THT.3dshapes/DP-241-6-24.step"
+		(offset
+			(xyz 16.35 -21.6 26.4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 -0 -90)
+		)
+	)
+)
