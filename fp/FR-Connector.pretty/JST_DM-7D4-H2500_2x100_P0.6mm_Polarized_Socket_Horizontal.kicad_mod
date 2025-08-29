@@ -650,14 +650,14 @@
 		)
 	)
 	(pad "" np_thru_hole circle
-		(at -38.5 0)
+		(at -38.35 0)
 		(size 1.05 1.05)
 		(drill 1.05)
 		(layers "F&B.Cu")
 		(uuid "68409ec7-3eb0-4afd-9a50-e35081c6775c")
 	)
 	(pad "" np_thru_hole circle
-		(at 38.1 0)
+		(at 38.3 0)
 		(size 1.45 1.45)
 		(drill 1.45)
 		(layers "F&B.Cu")
