@@ -1,7 +1,7 @@
 (footprint "ProtoHeader_1x37_P2.54mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "1x37 2.54mm protoboard header")
 	(tags "proto 2.54")
@@ -25,18 +25,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a81d25df-7e20-46ac-8302-39fa503e6316")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -105,18 +93,6 @@
 		)
 		(layer "F.CrtYd")
 		(uuid "42955543-0779-4b6e-aa85-0ec7e71f3a47")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 45.72 90)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "9e19cb3b-6acd-44a3-abba-2baa7573e48e")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "1" thru_hole rect
 		(at 0 0)
@@ -414,4 +390,5 @@
 		(remove_unused_layers no)
 		(uuid "67dfdade-c7c9-43f2-9d94-4e15851e5efb")
 	)
+	(embedded_fonts no)
 )
